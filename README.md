@@ -1,5 +1,5 @@
 # assignment-1-yes
-Recreate Unix yes in C
+Recreate Unix `yes` in C
 
 1. By default print 'yes' infinitely to standard output.
 2. Optionally print some other string specified as command-line arguments.
