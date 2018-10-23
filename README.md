@@ -9,7 +9,8 @@ Recreate Unix `yes` in C
 ## Part Two
 
 Come closer to GNU's yes in terms of performance.
-   yes | pv > /dev/null
-   26GB 0:00:12 [ 110MB/s] [ <=> ]
+
+      yes | pv > /dev/null
+      26GB 0:00:12 [ 110MB/s] [ <=> ]
 
 Submit yes.c and yes.pdf to Github classroom. Your PDF should include an analysis of throughput rates of GNU's yes compared with your original version, and any new versions you create (similar to Table 13-1 of TLPI).
